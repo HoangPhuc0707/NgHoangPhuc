@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Love you</title>
+	<style>
+        .avt-Phuc {
+            height: 600px;
+            width: 1000px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>ANH PHÚC ĐẸP CHAIIIIIIIIII</h1>
+<h2>!!!  Mình không thương bản thân mình là trời buồn đấy !!!!</h2>
+<p>Nguyen Hoang Phucs11:45 PM 5/27/2022</p>
+<img class="avt-phuc" src="Phuc.jpg" alt="Italian Trulli">
+</body>
+</html>
